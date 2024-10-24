@@ -11,7 +11,7 @@
 
 ### :man_technologist: About Me :
 I am a Front-End Developer and software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
-- 👦:	 4 years of experience in software and front development
+- 👦:	 6 years of experience in software and front development
 - :seedling: Exploring Technical Content Writing.
 - :heart:	linux and engineering lover
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
